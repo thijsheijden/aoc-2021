@@ -1,5 +1,3 @@
-import Control.Applicative
-import Data.Traversable (sequenceA)
 import Data.List (tails)
 
 main :: IO()
